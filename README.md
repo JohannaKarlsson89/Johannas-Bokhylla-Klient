@@ -1,29 +1,6 @@
-# moment3-frontendRamverk
+## Uppgift 3 - Frontend-ramverk
 
-This template should help get you started developing with Vue 3 in Vite.
+I den här uppgiften använder jag ramverket Vue.js för att konsumera en webbtjänst som jag har skapat i tidigare moment för samma kurs. 
+Jag också användt CSS-ramverket Bootstrap för som grund för design. 
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+PÅ webbplatsen kan man lägga till, ta bort och uppdatera. Jag har inte hunnit lägga till extra funktionalitet såsom att kontrollera input och återkoppla information till användaren. 
